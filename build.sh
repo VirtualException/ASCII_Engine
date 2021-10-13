@@ -1,0 +1,1 @@
+gcc example.c -engine/ascii_engine.c -o ascii_cube -lm
